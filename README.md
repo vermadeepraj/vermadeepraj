@@ -1,5 +1,22 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Building scalable backend systems, REST APIs, and automation workflows using Node.js, MongoDB, PostgreSQL, and modern tooling. Also exploring AI-powered products.<br><br>👯 I’m looking to collaborate on<br>Backend-heavy projects, open-source tools, developer platforms, AI/automation systems, and real-world problem-solving products.<br><br>🤝 I’m looking for help with<br>System design best practices, scaling backend architectures, and contributing to impactful open-source projects.<br><br>🌱 I’m currently learning<br>Advanced backend architecture, system design, cloud-native deployments, and AI integrations (RAG, LLM workflows).<br><br>💬 Ask me about<br>Backend development, REST APIs, Node.js, MongoDB, PostgreSQL, authentication (JWT), automation with n8n, and DSA prep.<br><br>⚡ Fun fact<br>Solved 500+ DSA problems and still enjoy debugging production bugs more than competitive programming 😉
+👨‍💻 About Me
+
+🔭 I’m currently working on
+Designing and building production-grade backend systems with Node.js and Express, focusing on REST APIs, authentication, rate limiting, and scalable database design. I’m also experimenting with AI-powered features like RAG-based systems and automation workflows.
+
+👯 I’m looking to collaborate on
+Backend-first projects, SaaS products, developer tools, real-time applications, and open-source projects involving Node.js, databases, APIs, or AI integrations. I’m especially interested in products that solve real-world problems at scale.
+
+🤝 I’m looking for help with
+Improving system design skills, learning scalable backend architecture patterns, and contributing effectively to large open-source codebases used in production.
+
+🌱 I’m currently learning
+Advanced backend concepts including system design, scalable API architectures, cloud-native deployments, and deeper AI integrations (RAG pipelines, LLM-based automation, event-driven systems).
+
+💬 Ask me about
+Node.js, Express.js, REST API design, MongoDB, PostgreSQL, JWT authentication, backend security, automation with n8n, AI-powered applications, and Data Structures & Algorithms (500+ problems solved).
+
+⚡ Fun fact
+I’ve solved 500+ DSA problems, but I enjoy debugging real backend production issues more than writing competitive programming code 😄
 
 
 ## 🌐 Socials:
